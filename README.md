@@ -21,4 +21,7 @@ You can see it:
 
 https://youtu.be/ru4v46Lg3bY
 
+Medium:
+https://medium.com/@javedmultani16/uiscrollview-configure-using-autolayout-84e9ed1205ec
+
 ![screen shot 2018-06-25 at 1 00 45 pm](https://user-images.githubusercontent.com/16849127/41836362-16970838-7878-11e8-8062-1aa23dd6ece1.png)
